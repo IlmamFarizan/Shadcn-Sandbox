@@ -1,1 +1,1 @@
-## This is a classified project built using NextJS, TailwindCSS, Shadcn
+## This is a sandbox project built using NextJS, TailwindCSS, Shadcn
